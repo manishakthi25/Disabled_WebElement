@@ -23,7 +23,7 @@ The script:
 * Selenium WebDriver
 * ChromeDriver
 * JavaScriptExecutor
-* Eclipse / IntelliJ IDEA
+* Eclipse
 
 ---
 
